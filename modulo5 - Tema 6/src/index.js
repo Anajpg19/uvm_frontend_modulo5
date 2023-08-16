@@ -1,13 +1,3 @@
-/* elemento.innerHTML = 'Hola Webpack'
-['Hola', 'Webpack', 'Petro', 'Paula']
-function saludar(nombre, apellido) {
-    console.log('Hola ' + nombre + apellido)
-}
-
-" "
-"Hola mi nombre es Javier"
-saludar("Ana", "Juarez")  */
-
 import _ from 'lodash';
 import './style.css';
 import Imagen from './calabaza.png';
